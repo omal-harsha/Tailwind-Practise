@@ -1,6 +1,6 @@
 # Tailwind-Practise
 
-create a resopnsive single webpage with talewind css
+create a React resopnsive single web page with talewind css
 
 Click [Here](https://amazing-stardust-a1dcd4.netlify.app/)
 
